@@ -1,0 +1,11 @@
+# Code owners for this repository.
+#
+# Listed users / teams are automatically requested for review on every
+# pull request that touches a matching file pattern, and — when combined
+# with the "Require review from Code Owners" branch-protection setting —
+# are required to approve before a merge can be completed.
+#
+# See: https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners
+
+# Default reviewer for everything: the repository maintainer.
+*  @dorrih-stardust

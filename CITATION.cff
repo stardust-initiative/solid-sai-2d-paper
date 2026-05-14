@@ -1,0 +1,64 @@
+cff-version: 1.2.0
+message: >-
+  If you use the materials linked from this repository, please cite both the
+  software/data (this repository, via the metadata below) and the accompanying
+  paper (preferred-citation, below).
+title: >-
+  Solid-particle stratospheric aerosol injection — a 2-D modeling exploration
+  of the design space (companion code and data)
+type: software
+version: 0.1.0
+# TODO: set date-released to the date this repository is first tagged public
+# (i.e. the v0.1 tag date). Placeholder below is kept only so the file parses.
+date-released: 2026-05-13
+authors:
+  - family-names: Lederer
+    given-names: Yoav
+    email: y.lederer@stardust-initiative.com
+    affiliation: Stardust-Labs, Ness Ziona, Israel
+  - family-names: Wygoda
+    given-names: Nahliel
+    affiliation: Stardust-Labs, Ness Ziona, Israel
+  - family-names: Halbertal
+    given-names: Dorri
+    affiliation: Stardust-Labs, Ness Ziona, Israel
+  - family-names: Rose
+    given-names: Brian E. J.
+    affiliation: University at Albany, State University of New York, USA
+repository-code: "https://github.com/stardust-initiative/solid-sai-2d-paper"
+license: MIT
+keywords:
+  - stratospheric aerosol injection
+  - solar geoengineering
+  - solid particles
+  - radiative forcing
+  - 2-D atmospheric model
+  - climlab
+preferred-citation:
+  type: article
+  title: >-
+    Solid-particle stratospheric aerosol injection: a 2-D modeling exploration
+    of the design space
+  authors:
+    - family-names: Lederer
+      given-names: Yoav
+      affiliation: Stardust-Labs, Ness Ziona, Israel
+    - family-names: Wygoda
+      given-names: Nahliel
+      affiliation: Stardust-Labs, Ness Ziona, Israel
+    - family-names: Halbertal
+      given-names: Dorri
+      affiliation: Stardust-Labs, Ness Ziona, Israel
+    - family-names: Rose
+      given-names: Brian E. J.
+      affiliation: University at Albany, State University of New York, USA
+  journal: Atmospheric Chemistry and Physics
+  # TODO: fill in once the paper is accepted / published.
+  year: 2026
+  # volume:
+  # issue:
+  # start:
+  # end:
+  # doi:
+  # url:
+  notes: Submitted to Atmospheric Chemistry and Physics, 2026; under review.

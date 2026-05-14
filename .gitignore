@@ -1,0 +1,87 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+*.egg
+.installed.cfg
+MANIFEST
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+.python-version
+
+# Test / coverage / type-checker artefacts
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+.coverage.*
+htmlcov/
+.tox/
+.nox/
+
+# --- Jupyter ---
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+profile_default/
+ipython_config.py
+
+# --- Editor / OS ---
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# --- Scientific data / outputs (safety net: this repo is metadata-only) ---
+# Common large/binary scientific formats that should NOT be committed here.
+# Component repositories may relax these rules.
+*.nc
+*.nc4
+*.h5
+*.hdf5
+*.npz
+*.npy
+*.zarr/
+*.pkl
+*.pickle
+*.parquet
+
+# Plot outputs and generated figures (commit final figures intentionally if needed)
+*.png
+*.jpg
+*.jpeg
+*.tif
+*.tiff
+*.gif
+*.eps
+*.svg
+*.pdf
+# (Re-add specific figures explicitly with `git add -f` if intentionally tracking.)
+
+# Log / temporary
+*.log
+.tmp/
+tmp/
+scratch/
