@@ -1,0 +1,3 @@
+# Minimal dependencies for plot_appendix_modtran_rrtmg.py
+numpy>=1.24
+matplotlib>=3.5
