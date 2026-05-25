@@ -66,7 +66,7 @@ Stardust-modified dependency is pinned by version tag in the runner's
 conda create -n stardust_env python=3.11 -y
 conda activate stardust_env
 conda install -c conda-forge climlab compilers meson meson-python -y
-pip install git+https://github.com/stardust-initiative/stardust-climate.git@v0.1.1
+pip install git+https://github.com/stardust-initiative/stardust-climate.git@v0.1.2
 ```
 
 The Stardust forks of `climlab-rrtmg` and `climlab-sbm-convection` are
