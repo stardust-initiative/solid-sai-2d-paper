@@ -51,12 +51,12 @@ preferred-citation:
       given-names: Brian E. J.
       affiliation: University at Albany, State University of New York, USA
   journal: Atmospheric Chemistry and Physics
-  # TODO: fill in once the paper is accepted / published.
+  # TODO: replace preprint doi/url with the final ACP details once accepted.
   year: 2026
   # volume:
   # issue:
   # start:
   # end:
-  # doi:
-  # url:
-  notes: Submitted to Atmospheric Chemistry and Physics, 2026; under review.
+  doi: 10.5194/egusphere-2026-2772
+  url: "https://doi.org/10.5194/egusphere-2026-2772"
+  notes: Preprint posted as ACP discussion paper on egusphere, 2026; under open review. Will be superseded by the final ACP DOI on acceptance.
