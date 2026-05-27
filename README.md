@@ -22,7 +22,7 @@ deposit is published on Zenodo, and the SARF + 2-D transport pipelines in
 > of the design space.** Submitted to *Atmospheric Chemistry and Physics*,
 > 2026.
 >
-> DOI: (will be added when the ACPD discussion-paper DOI is assigned)
+> Preprint DOI: [`10.5194/egusphere-2026-2772`](https://doi.org/10.5194/egusphere-2026-2772)
 
 Author affiliations:
 - Yoav Lederer (corresponding) — Stardust Labs ltd, Ness Ziona, Israel
